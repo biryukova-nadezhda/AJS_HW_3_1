@@ -1,0 +1,23 @@
+{
+  "name": "ajs_hw_3_1",
+  "version": "1.0.0",
+  "description": "",
+  "main": "dist/index.js",
+  "scripts": {
+    "start": "node src/index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/biryukova-nadezhda/AJS_HW_3_1.git"
+  },
+  "author": "Biryukova Nadezhda",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/biryukova-nadezhda/AJS_HW_3_1/issues"
+  },
+  "homepage": "https://github.com/biryukova-nadezhda/AJS_HW_3_1#readme",
+  "dependencies": {
+    "@biryukova-nadezhda/ajs": "^1.0.0"
+  }
+}
